@@ -1,0 +1,18 @@
+   {
+     "target_directory": "/path/to/test",
+     "total_files": 5,
+     "total_size_bytes": 10240,
+     "file_type_distribution": {
+       "text": 2,
+       "image": 1,
+       "other": 2
+     },
+     "modification_timeline": [
+       {
+         "date": "2023-10-01T00:00:00Z",
+         "file_count": 3
+       }
+     ],
+     "scan_timestamp": "2023-10-05T12:00:00Z"
+   }
+   
